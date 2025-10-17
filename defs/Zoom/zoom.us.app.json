@@ -1,0 +1,11 @@
+{
+  "name" : "zoom.us.app",
+  "uninstall" : {
+    "appName" : "zoom.us.app",
+    "bundleId" : "us.zoom-xos",
+    "forgetPkg" : true,
+    "unloadLaunchDaemons" : true
+  },
+  "updated_at" : "2025-10-17T09:39:26Z",
+  "version" : "1"
+}
