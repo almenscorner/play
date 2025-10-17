@@ -1,6 +1,6 @@
 {
-  "name": "Company Portal",
-  "version": "1.0.1",
+  "name": "companyportal",
+  "version": "1",
   "updated_at": "2025-10-16T12:34:56Z",
   "uninstall": {
     "appName" : "Company Portal",

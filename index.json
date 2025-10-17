@@ -1,22 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2025-10-16T12:33:37Z",
+  "generated_at": "2025-10-17T06:27:02Z",
   "items": [
     {
       "id": "com.microsoft.CompanyPortalMac",
-      "name": "Company Portal",
-      "version": "1.0.0",
+      "name": "companyportal",
+      "version": "1",
       "updated_at": "2025-10-16T12:34:56Z",
-      "path": "defs/com.microsoft.CompanyPortalMac/1.0.0.json",
-      "sha256": "1bc4446d475f4d414c7cbe9bcf6c0029c4efae307d1db72a70cba31c8c69eeff"
-    },
-    {
-      "id": "com.microsoft.CompanyPortalMac",
-      "name": "Company Portal",
-      "version": "1.0.1",
-      "updated_at": "2025-10-16T12:34:56Z",
-      "path": "defs/com.microsoft.CompanyPortalMac/1.0.1.json",
-      "sha256": "5196fcc7f287f424b8606e453e1487a637962783cb945267ef6b25dd418f0757"
+      "path": "defs/Microsoft/companyportal.json",
+      "sha256": "bf42f5381ac50138a6bad502f4db06e30e837a722b2d2f3e9797168e253aecad"
     }
   ]
 }
